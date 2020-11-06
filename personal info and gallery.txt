@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>LINK PERSONAL INFO AND GALLERY</title>
+<title>PERSONAL INFO AND GALLERY</title>
 </head>
 <body>
 
 <h1>PROFILE INFORMATION AND GALLERY</h1>
 
 
-<P><a href="https://www.instagram.com/bestscenerypictures/">personal info</a></P>
+<P><a href="https://www.instagram.com/bestscenerypictures/">PERSONAL INFO!!!</a></P>
 <P><a href="https://www.instagram.com/p/B_Zaniug2fr/">Picture 1</a></P>
 <P><a href="https://www.instagram.com/p/B9eOKmgge2N/">Picture 2</a></P>
 <P><a href="https://www.instagram.com/p/B5xTqLJAWD6/">Picture 3</a></P>
