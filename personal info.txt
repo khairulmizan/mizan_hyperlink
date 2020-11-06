@@ -1,0 +1,16 @@
+<html>
+	 <head>
+	 	  <title>PERSONAL INFO</title>
+	 </head>
+
+	 <body>
+	 	 <!-- headings -->
+	 	 <h1>Personal info</h1>
+	 	 <p>Name: Muhammad Khairul Mizan bin Zawawi.</p>
+	 	 <p>Age: 20 years old.</p>
+	 	 <p>Address: B4-06 APARTMENT SRI INAI JALAN ANGGERIK 3 BUKIT SENOTASA 2, 48300 RAWANG, SELANGOR.
+	 	 <p>Email:<a href="mailto:khairulmizan764@gmail.com">khairulmizan764@gmail.com</a></p>
+	 	 <p>Facebook: <a href="https://www.facebook.com/khairul.zawawi.39/" target="_blank">Khairul Zawawi</a></p>
+
+	 </body>
+</html>
