@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WEBSITE</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>Tseeing and enjoying is a beautiful thing in our life, because seeing nature and enjoying is very beautiful, it could be happiness 
+in our life, it really is a very beautiful nature if in enjoy, because an object if not see and enjoy we will not be able to, let alone 
+reach to the very far away it never arrived, try if seen well and enjoy the right we can to high level, what else enjoy the beautiful 
+scenery it must really see and feel what's happening in our hearts,</p>
+
+<p>I think we all have a beautiful place in our mind. I have a wonderful place that made me happy a lot of times, years ago. But sometimes 
+I think that I am the only person who likes this place and I'm asking myself if this place will be as beautiful as I thought when I will 
+go back to visit it again. Perhaps I made it beautiful in my mind.</p>
+
+<p>This place is meaningful to me because it is part of the county I loved, is part of the county where I grew up and is part of my childhood. 
+This place is in the country in an old region named Appalachia, a small piece of the Appalachian Mountains, in a town named Pikeville.</p>
+
+<a href="https://www.instagram.com/bestscenerypictures/>personal info</a>
+
+
+</body>
+</html>
